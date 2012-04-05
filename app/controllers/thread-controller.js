@@ -4,7 +4,7 @@
 var Thread = mongoose.model('Thread');
 
 module.exports = function(app) {
-  var root = '/cotobal';
+  var root = '/cotobale';
 
   // Find
   app.param('id', function(req, res, next, id) {

@@ -6,6 +6,6 @@
     "secret": "default-secret-string"
   },
   "data": {
-    "uri": "mongodb://localhost/cotobal"
+    "uri": "mongodb://localhost/cotobale"
   }
 }
